@@ -1,0 +1,110 @@
+Dirt
+Grass
+Sand
+Gravel
+Glowstone
+Glowstone Dust
+flint
+red mushroom
+brown mushroom
+apple
+egg
+wheat seed
+coco
+gunpowder
+bone
+slimeball
+coal
+clay
+block of lapis
+lapis
+deepslate lapis
+lapis ore
+redstone ore
+deepslate redstone ore
+redstone dust
+block of redstone
+coal ore
+deepslate coal ore
+block of coal
+deepslate iron ore
+iron ore
+block of raw iron
+raw iron
+block of iron
+iron ingot
+iron nugget
+deepslate gold ore
+gold ore
+block of raw gold
+raw gold
+gold nugget
+gold ingot
+block of gold
+smooth stone
+stone
+cobblestone
+sandstone
+copper ore
+deepslate copper ore
+raw copper
+block of raw copper
+copper ingot
+block of copper
+waxed block of copper
+cut copper
+waxed cut copper
+cut copper slab
+waxed cut copper slab
+Diamond
+Diamond Block
+Emerald
+Emerald Block
+Wheat seeds
+Wheat
+Hay Block
+Netherwart
+coco
+Pumpkin seeds
+Pumkin
+Melon seeds
+Melons
+bad potato
+potato
+beetroot seeds
+beetroot
+Carrots
+Bamboo
+Sugarcane
+Sweet Berries
+Cactus
+Kelp
+Sea Pickle
+Glow Berries
+Oak Log
+Oak Plank
+Oak Sapling
+Dark Oak Loag
+Dark Oak Plank
+Dark Oak Sapling
+Spruce Log
+Spruce Plank
+Spruce Sapling
+Birch Log
+Birch Plank
+Birch Sapling
+Jungle Log
+Jungle Plank
+Jungle Sapling
+Acacia Log
+Acacia Plank
+Acacia Sapling
+Stripped Oak
+Stripped Dark Oak
+Stripped Spruce
+Stripped Birch
+Stripped Jungle
+Stripped Acacia
+stick
+Vine
+Arrow

@@ -1,0 +1,15 @@
+discord.py
+requests
+beautifulsoup4
+ffmpeg
+random
+yt-dlp
+pynacl
+fuzzywuzzy
+python-Levenshtein
+json
+re
+flask
+flask-SSLify
+flask_cors
+flask-socketio
